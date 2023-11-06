@@ -1,12 +1,12 @@
-![Logo](banner.png)
+![Logo](banner.jpg)
 <h1 align="center">Hi 👋, I'm Loïc</h1>
-<h3 align="center">I'm a computer science engineering sudent in Lille (France)</h3>
+<h3 align="center">I'm a computer science engineering sudent in Lille (France) working for Pasquier Bakery</h3>
 
-
-- 🔭 I’m currently working on [Space](https://github.com/PottierLoic/Space) (my own 2D/3D Engine).
+- 🔭 I’m currently working on [Space](https://github.com/PottierLoic/Space) (my own 2D/3D Engine) and [VBoy](https://github.com/PottierLoic/VBoy) (a gb emulator written in V).
 - 🌱 I’m currently learning **OpenGL**.
 - 🗣️ Spoken Language **French, English**. (Japanese soon -_-)
 - 📝 Interested in **maths, fractals, emulation and physics simulations**.
+- 🎮 Working with [Loïc Lemai](https://github.com/LoicLemai) on [Lunary Labs](https://github.com/Lunary-Labs) games.
 - 📫 Reach me on **loic.pottier@live.fr** or on Discord: **voxinio**.
 
 <h3 align="left">Languages and Tools:</h3>
